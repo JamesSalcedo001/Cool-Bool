@@ -5,3 +5,8 @@ body {
     background: black;
     color: aqua;
 }
+
+img:hover{
+    opacity:1.0;
+    border-radius:50%;
+}
